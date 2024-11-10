@@ -9,4 +9,4 @@ This text was added to test pushing from a local repository.
 Added text locally in a different branch "newbranch".
 
 
-Added text locally for a conflict.
+Resolving a conflict between local and remote repositories.
